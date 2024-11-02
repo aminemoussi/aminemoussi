@@ -51,7 +51,7 @@ languages = ['Python', 'C', 'Java', 'SQL/PL-SQL']
 ## 🔗 Connect With Me
 
 - 📧 Email: m.moussi@esi-sba.dz
-- 💼 LinkedIn: [Moussi Amine](linkedin.com/in/moussi-m-amine-0566062a6)
+- 💼 LinkedIn: [Moussi Amine](https://www.linkedin.com/in/moussi-m-amine-0566062a6)
 
 ## 📊 GitHub Current Stats
 
