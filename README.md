@@ -14,7 +14,7 @@ I'm a Postgraduate Engineering Student specializing in the convergence of Embedd
 
 ### Languages
 ```python
-languages = ['Python', 'C', 'C++, 'Java', 'SQL/PL-SQL']
+languages = ['Python', 'C', 'C++, 'Java', 'SQL/NoSQL']
 ```
 
 
