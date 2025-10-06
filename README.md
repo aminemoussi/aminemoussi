@@ -2,51 +2,11 @@
 
 I'm a Postgraduate Engineering Student specializing in the convergence of Embedded Systems and Artificial Intelligence. My passion lies in developing intelligent robotic systems through deep learning and computer vision techniques.
 
-## 🎯 About Me
-
-- 🎓 Software Engineering Student specializing in AI and Data Science
-- 🤖 Focused on bridging hardware capabilities with AI technologies
-- 🧠 Deeply passionate about neural networks and their applications in robotics
-- 🔍 Exploring physics-informed machine learning approaches
-- 🌐 Experienced in network infrastructure and security implementations
-
 ## 🛠️ Technical Stack
-
 ### Languages
 ```python
-languages = ['Python', 'C', 'C++, 'Java', 'SQL/NoSQL']
+languages = ['Python', 'C', 'C++, 'Rust', 'Java', 'SQL']
 ```
-
-
-
-### Core Competencies
-- **Artificial Intelligence**
-  - Deep Learning & Neural Networks
-  - Computer Vision Systems
-  - Machine Learning (Linear/Logistic Regression, SVM, KNN)
-  - Model Optimization & Training
-
-- **Robotics & Embedded Systems**
-  - Computer-Aided Design/Engineering
-  - Fusion 360
-  - Electronics & Mechanics
-  - Physics-Informed Systems
-
-- **Data Science**
-  - Data Processing & Analysis
-  - Pandas, NumPy, Matplotlib
-  - Power BI
-  - Database Architecture & Optimization
-
-- **Network & Security**
-  - FTTH/ADSL/4G Technologies
-  - Network Infrastructure Design
-  - Encryption Systems (AES/DES)
-  - Security Protocol Implementation
-
-
-
-
 
 ## 🔗 Connect With Me
 
