@@ -10,7 +10,7 @@ languages = ['Python', 'C', 'C++, 'Rust', 'Java', 'SQL']
 
 ## 🔗 Connect With Me
 
-- 📧 Email: m.moussi@esi-sba.dz
+- 📧 Email: aminemoussi03@gmail.com
 - 💼 LinkedIn: [Moussi Amine](https://www.linkedin.com/in/moussi-m-amine-0566062a6)
 
 ## 📊 GitHub Current Stats
