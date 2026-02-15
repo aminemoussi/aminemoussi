@@ -15,7 +15,6 @@ languages = ['Python', 'C++, 'Rust', 'SQL']
 
 ## 📊 GitHub Current Stats
 
-
 [![aminemoussi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aminemoussi&theme=dark&show_icons=true)](https://github.com/aminemoussi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aminemoussi&theme=dark&hide_border=true&border_radius=5&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
