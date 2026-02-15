@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Amine MOUSSI
 
-I'm a Postgraduate Engineering Student specializing in the convergence of Embedded Systems and Artificial Intelligence. My passion lies in developing intelligent robotic systems through deep learning and computer vision techniques.
+Postgrad Engineering Student specializing in Edge AI applications, contact me for collaborations.
 
 ## 🛠️ Technical Stack
 ### Languages
 ```python
-languages = ['Python', 'C', 'C++, 'Rust', 'Java', 'SQL']
+languages = ['Python', 'C++, 'Rust', 'SQL']
 ```
 
 ## 🔗 Connect With Me
