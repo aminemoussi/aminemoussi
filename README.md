@@ -3,9 +3,9 @@
 Postgrad Engineering Student specializing in Edge AI applications, contact me for collaborations.
 
 ## 🛠️ Technical Stack
-### Languages
+### MainLanguages
 ```python
-languages = ['Python', 'C++, 'Rust', 'SQL']
+languages = ['Python', 'C++, 'Rust']
 ```
 
 ## 🔗 Connect With Me
